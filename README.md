@@ -20,7 +20,7 @@
 * Once inside a container, ```Ctrl + P + Q``` detaches from the container, without killing processes
 * ```docker attach <TAG>``` re-attaches to a detached container. Note that after running this command, you need to start typing to see the bash prompt. However, if a process was running, this will just hang, so you can detach again using the above command.
 * Once inside a container, ```Ctrl + A + D``` exits the container and kills any processes within
-#### Common Flags/Options: (to be used with ```docker run```
+#### Common Flags/Options: (to be used with ```docker run```)
 ```docker run [OPTIONS] IMAGE [COMMAND] [ARG...]```
 * ```--rm``` signals to remove the container after it is exited 
 * ```--name``` names the container 
