@@ -1,0 +1,14 @@
+jensen:
+  priya:
+    path_to_data_directory: '/raid/priya/data'
+  adi:
+    path_to_data_directory: '/raid/adi/data'
+  harry:
+    path_to_data_directory: '/raid/harry/data'
+  jacksonchui:
+    path_to_data_directory: '/raid/jacksonchui/data'
+  shivin:
+    path_to_data_directory: '/raid/shivin/data'
+triton1:
+  shivin:
+    path_to_data_directory: '/raid/shivin/data'
